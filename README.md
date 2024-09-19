@@ -1,4 +1,4 @@
-### CALMS - Framework
+### CALMS - Framework 
 ![image](https://github.com/igordamiao/CALMS/assets/21180598/89b58658-87a5-4fa5-a4b0-9c5b8f0639ef)
 
 **1. CULTURE - Diagnóstico Cultural (C de CALMS):**
