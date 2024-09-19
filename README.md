@@ -12,10 +12,10 @@
 **2. AUTOMATION - Automação (A de CALMS):**
 > - Implementar um pipeline de CI/CD para automatizar build, testes e deploy.
 > - **Plano de Implementação:**
-  > - Escolher ferramentas adequadas (ex: Jenkins, GitLab CI).
-  > - Configurar o pipeline para acionamento automático.
-  > - Incluir testes automatizados e rollback automático em caso de falha.
-  > - Realizar treinamento para as equipes.
+> 1. Escolher ferramentas adequadas (ex: Jenkins, GitLab CI).
+> 2. Configurar o pipeline para acionamento automático.
+> 3. Incluir testes automatizados e rollback automático em caso de falha
+> 4. Realizar treinamento para as equipes.
 
 **3. LEAN - Identificação de Desperdícios (L de CALMS):**
 > - Analisar o processo atual para identificar atividades que não agregam valor.
